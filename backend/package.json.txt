@@ -1,5 +1,5 @@
 {
-  "name": "andon-portal",
+  "name": "backend",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
@@ -16,4 +16,5 @@
     "vite": "^4.3.9",
     "tailwindcss": "^3.3.2"
   }
+
 }
